@@ -1,2 +1,2 @@
 - [Ancient Greek dialects: timeline & resources](./ancient-greek-dialects.md)
-
+- [Lithium's role in semiconductors & AI](./lithium-semiconductors-ai.md)
