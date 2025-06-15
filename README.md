@@ -1,2 +1,2 @@
-# ask-ai
-Answers from AI Studio (Gemini), mostly
+- [Ancient Greek dialects: timeline & resources](./ancient-greek-dialects.md)
+
